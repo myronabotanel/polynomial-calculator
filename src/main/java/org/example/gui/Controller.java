@@ -23,9 +23,4 @@ public class Controller {
 
 
 
-    // Definiți ascultătorii pentru celelalte operații așa cum este necesar
-    // private class MultiplyButtonListener implements ActionListener { ... }
-    // private class DivideButtonListener implements ActionListener { ... }
-    // private class DerivativeButtonListener implements ActionListener { ... }
-    // private class IntegrationButtonListener implements ActionListener { ... }
 }
